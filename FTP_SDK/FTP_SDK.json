@@ -1,0 +1,124 @@
+[
+  {
+    "Guid": "0e637d88-a8c2-48ed-812a-90a5ac62f950",
+    "Name": "MoveFile",
+    "Description": "",
+    "Assembly": "FTP_SDK",
+    "Class": "FTP_SDK.MoveFile",
+    "Type": "CustomAction"
+  },
+  {
+    "Guid": "598f3a36-0725-4f10-a89d-a0b186a0dcda",
+    "Name": "DeleteFile",
+    "Description": "",
+    "Assembly": "FTP_SDK",
+    "Class": "FTP_SDK.DeleteFile",
+    "Type": "CustomAction"
+  },
+  {
+    "Guid": "6c3c3c14-175f-48fd-9434-9413ca51821c",
+    "Name": "CreateDirectory",
+    "Description": "",
+    "Assembly": "FTP_SDK",
+    "Class": "FTP_SDK.CreateDirectory",
+    "Type": "CustomAction"
+  },
+  {
+    "Guid": "ba9556a4-9e25-47fc-87d4-db9a35a3613f",
+    "Name": "DownloadFie",
+    "Description": "",
+    "Assembly": "FTP_SDK",
+    "Class": "FTP_SDK.DownloadFie",
+    "Type": "CustomAction"
+  },
+  {
+    "Guid": "d2c3df32-53af-4370-ab83-b04be63ebc00",
+    "Name": "UploadFile",
+    "Description": "",
+    "Assembly": "FTP_SDK",
+    "Class": "FTP_SDK.UploadFile",
+    "Type": "CustomAction"
+  }
+  //{
+  //  "Guid": "10356cc1-b08f-4300-ab35-b529ee6d1f54",
+  //  "Name": "Sample standard action",
+  //  "Description": "",
+  //  "Assembly": "FTP_SDK",
+  //  "Class": "FTP_SDK.CustomActions.StandardActionSample",
+  //  "Type": "CustomAction"
+  //},
+  //{
+  //  "Guid": "74b49ce8-e714-4cf0-8d53-7d38f9195ad9",
+  //  "Name": "Sample business rule",
+  //  "Description": "",
+  //  "Assembly": "FTP_SDK",
+  //  "Class": "FTP_SDK.CustomBusinessRules.BusinessRuleSample",
+  //  "Type": "CustomBusinessRule"
+  //},
+  //{
+  //  "Guid": "8e58bbe7-e165-4bd4-a258-60bdd1dbafbc",
+  //  "Name": "Sample custom control",
+  //  "Description": "",
+  //  "Assembly": "FTP_SDK",
+  //  "Class": "FTP_SDK.CustomControls.ControlLogicSample",
+  //  "SPUrl": "/_layouts/...",
+  //  "Type": "CustomFormField"
+  //},
+  //{
+  //  "Guid": "3fc46122-94ba-4474-af1e-4fc415c03418",
+  //  "Name": "Sample custom control without logic",
+  //  "Description": "SharePoint control without defined TValue, and without logic class",
+  //  "SPUrl": "/_layouts/...",
+  //  "Type": "CustomFormField"
+  //},
+  //{
+  //  "Guid": "c8824e97-e04a-48e8-a5b8-2fe942943810",
+  //  "Name": "Sample data source",
+  //  "Description": "",
+  //  "Assembly": "FTP_SDK",
+  //  "Class": "FTP_SDK.CustomDataSources.DataSourceSample",
+  //  "Type": "CustomDataSource"
+  //},
+  //{
+  //  "Guid": "6b8cc0b0-d98f-4dd0-aa24-3f8e9c730b7d",
+  //  "Name": "Sample label template",
+  //  "Description": "",
+  //  "Assembly": "FTP_SDK",
+  //  "Class": "FTP_SDK.CustomLabelTemplates.LabelTemplateSample",
+  //  "Type": "CustomLabelPrint"
+  //},
+  //{
+  //  "Guid": "d4631d10-9bfc-4f3f-ac87-f8a4b06ea5eb",
+  //  "Name": "Sample form field extension",
+  //  "Description": "",
+  //  "Assembly": "FTP_SDK",
+  //  "Class": "FTP_SDK.FormFieldExtensions.FormFieldLogicSample",
+  //  "SPUrl": "/_layouts/...",
+  //  "Type": "FormFieldExtension"
+  //},
+  //{
+  //  "Guid": "cba5805b-768c-4de4-8ea0-c408ed1d752c",
+  //  "Name": "Sample form field extension without logic",
+  //  "Description": "SharePoint form field control without defined TValue, and without logic class",
+  //  "SPUrl": "/_layouts/...",
+  //  "Type": "FormFieldExtension"
+  //},
+  //{
+  //  "Guid": "dedb5a35-1533-4519-abd2-db35f238e972",
+  //  "Name": "Sample items list extension",
+  //  "Description": "",
+  //  "Assembly": "FTP_SDK",
+  //  "Class": "FTP_SDK.ItemsListExtensions.ItemsListSample",
+  //  "SPAssembly": "",
+  //  "SPClass" :  "",
+  //  "Type": "ItemListExtension"
+  //},
+  //{
+  //  "Guid": "4600fe37-1e2f-4eea-b794-21cb8f301d79",
+  //  "Name": "Sample items list extension - only logic class",
+  //  "Description": "Item list extension with standard appearance and modified logic",
+  //  "Assembly": "FTP_SDK",
+  //  "Class": "FTP_SDK.ItemsListExtensions.ItemsListSample",
+  //  "Type": "ItemListExtension"
+  //}
+]
